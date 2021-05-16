@@ -28,9 +28,8 @@ const Home=()=>{
         let tempArr=[];
         console.log(finalResult)
         let temp=finalResult.map((s)=>{
-            tempArr.push({wordname:s[0],occurence:s[1]}
-                        );
-                                     return console.log('test')
+           return tempArr.push({wordname:s[0],occurence:s[1]});
+                                     
 
        })
         console.log(temp)
