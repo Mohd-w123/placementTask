@@ -6,6 +6,11 @@ https://infallible-kirch-a78490.netlify.app/
 
 
 
+Installation
+Clone the Repo git clone 
+Install NPM packages npm install https://github.com/Mohd-w123/placementTask
+
+
 
 This react app will ease your task of count the words and sort it according to the occurence of word !
 
